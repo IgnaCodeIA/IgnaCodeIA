@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Ignacio</h1>
 <h3 align="center">Soy un apasionado por la programación y las nuevas tecnologías</h3>
 
-- 👨‍💻 Mi perfil de Linkedin [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)
+- 👨‍💻 Mi perfil de Linkedin [https://www.linkedin.com/in/ignacio-carreño-romero-790246269/)
 
 - 💬 Pregúntame sobre **python,Java,Machine Learning y Deep Learning**
 
