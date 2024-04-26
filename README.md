@@ -1,9 +1,10 @@
 <h1 align="center">Hola 👋, me llamo Ignacio</h1>
 <h3 align="center">Soy un apasionado por la programación y las nuevas tecnologías</h3>
 
-- 👨‍💻 Mi perfil de Linkedin [https://www.linkedin.com/in/ignacio-carreño-romero-790246269/)
+- 👨‍💻 [Mi perfil de Linkedin](https://www.linkedin.com/in/ignacio-carreño-romero-790246269/)
 
-- 💬 Pregúntame sobre **python,Java,Machine Learning y Deep Learning**
+
+- 💬 Pregúntame sobre **Python,Java, Machine Learning y Deep Learning**
 
 
 <h3 align="left">Contacta conmigo:</h3>
